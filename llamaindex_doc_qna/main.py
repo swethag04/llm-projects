@@ -3,7 +3,6 @@ import streamlit as st
 import llamaindex_helper
 from tempfile import NamedTemporaryFile
 
-
 st.title("Q&A App for your PDF document")
 st.subheader('Upload your PDF file')
 input_file = st.file_uploader('⬆️ Upload your PDF & Click to process',
