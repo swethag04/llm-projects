@@ -1,4 +1,5 @@
 # Research paper Q&A App using Retrieval Augmented Generation (RAG)
+![alt text](https://github.com/swethag04/llm-projects/blob/main/llamaindex_doc_qna/qanda_app_screenshot.png)
 
 ### Goal 
 The goal of the project is to build a Question and Answer system powered by Large Language Models (LLM) that will answer any specific question from a research paper the user uploads on the app.
